@@ -1,0 +1,3 @@
+exports.game = {
+	wordBank : ['Led Zeppelin', 'Nirvana', 'Beatles', 'Pink Floyd','Pearl Jam', 'AC DC', 'Radiohead', 'Black Sabbath', 'Aerosmith','Def Leppard', 'Metallica', 'Queen', 'Creed','The Doors','RATM', 'Coldplay', 'Avenged Sevenfold', 'Megadeth', 'The Who', 'Red Hot Chilli Peppers', 'The Rolling Stones', 'Linkin Park','Green Day', 'Lynrd Skynyrd', 'Soundgarden', 'Stone Temple Pilots', 'Creedence Clearwater Revival', 'Iron Maiden', 'Slipknot']
+};
